@@ -2,7 +2,7 @@
 
 ## REACT, JS, HTML5, CSS3
 
-## __Create | Update | Delete Tasks
+## __Create | Update | Delete Tasks__
 
 [dhw][website] 👋
 
